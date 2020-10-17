@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Plugin.ProXamTabs</AssemblyName>
+    <RootNamespace>Plugin.ProXamTabs</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Platforms\**" />
+    <EmbeddedResource Remove="Platforms\**" />
+    <None Remove="Platforms\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1560" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Shared\PXTab.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Shared\PXTabsLayout.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Shared\PXTabsView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>

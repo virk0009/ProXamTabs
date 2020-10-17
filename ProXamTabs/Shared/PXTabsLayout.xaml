@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<local1:BasePXTabsLayout  xmlns:local1="clr-namespace:Plugin.ProXamTabs.Shared" 
+             xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Plugin.ProXamTabs.Shared.PXTabsLayout">
+  <ContentView.Content>
+        <AbsoluteLayout
+            VerticalOptions="Fill"
+            HorizontalOptions="FillAndExpand">
+            <Image
+                x:Name="backgroundImage"
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds="0,0,1,1"/>
+            <BoxView
+                x:Name="sliderView"
+                HeightRequest="4"
+                HorizontalOptions="Fill" />
+            <BoxView
+                x:Name="borderView"
+                AbsoluteLayout.LayoutFlags="PositionProportional, WidthProportional"
+                AbsoluteLayout.LayoutBounds="0,0,1,.5"
+                BackgroundColor="Gray" />
+            <Grid
+                x:Name="tabsGrid"
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds="0,0,1,1"
+                ColumnSpacing="4"
+                Padding="2,0,2,0">
+            </Grid>
+            
+
+        </AbsoluteLayout>
+    </ContentView.Content>
+</local1:BasePXTabsLayout>

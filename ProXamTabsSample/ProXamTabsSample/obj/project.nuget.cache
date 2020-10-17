@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQDjAcGyps1bjsCpvYl0sm6rvaaqvM1tOeLus8EtiNU2zXhk+ECTXvoJwd3eFP4/qdiZK/sH/ddiB7bQWC0nYQ==",
+  "success": true,
+  "projectFilePath": "D:\\development\\Git\\public\\ProXamTabs\\ProXamTabsSample\\ProXamTabsSample\\ProXamTabsSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virk0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\virk0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\virk0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\virk0\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512"
+  ],
+  "logs": []
+}

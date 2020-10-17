@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ProXamTabsSample.MainPage">
+
+    <NavigationPage.TitleView>
+        <Label Text=" World, this is how we say hello from Xamarin. This is the second line of our content" />
+    </NavigationPage.TitleView>
+
+    <ContentPage.ToolbarItems> 
+    <ToolbarItem Icon="search.png" Text="T1" Clicked="ToolbarItem_Clicked"       />
+        
+</ContentPage.ToolbarItems>
+    <ContentPage.Content>
+
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Label Text="Welcome to Xamarin.Forms! Main page2" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

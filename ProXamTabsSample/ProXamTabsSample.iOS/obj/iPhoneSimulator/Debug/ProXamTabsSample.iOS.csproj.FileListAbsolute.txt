@@ -1,0 +1,60 @@
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ProXamTabsSample.iOS.exe
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ProXamTabsSample.iOS.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ProXamTabsSample.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Plugin.ProXamTabs.dll
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/ProXamTabsSample.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/bin/iPhoneSimulator/Debug/Plugin.ProXamTabs.pdb
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_PartialAppManifest.items
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_BundleResourceWithLogicalName.items
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_PartialAppManifest.items
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_BundleResourceWithLogicalName.items
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/optimized/
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/ProXamTabsSample.iOS.csprojAssemblyReference.cache
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/ProXamTabsSample.iOS.csproj.CoreCompileInputs.cache
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/ProXamTabsSample.iOS.csproj.CopyComplete
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/ProXamTabsSample.iOS.exe
+/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/ProXamTabsSample.iOS.pdb

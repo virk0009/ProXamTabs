@@ -1,0 +1,87 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\ic_contact_32dp.png" />
+    <None Remove="Resources\ic_contact_gray_32dp.png" />
+    <None Remove="Resources\ic_home_32dp.png" />
+    <None Remove="Resources\ic_home_gray_32dp.png" />
+    <None Remove="Resources\ic_search_32dp.png" />
+    <None Remove="Resources\ic_search_gray_32dp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ic_contact_32dp.png" />
+    <EmbeddedResource Include="Resources\ic_contact_gray_32dp.png" />
+    <EmbeddedResource Include="Resources\ic_home_32dp.png" />
+    <EmbeddedResource Include="Resources\ic_home_gray_32dp.png" />
+    <EmbeddedResource Include="Resources\ic_search_32dp.png" />
+    <EmbeddedResource Include="Resources\ic_search_gray_32dp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1560" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ProXamTabs\ProXamTabs.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="VideoPlayer.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

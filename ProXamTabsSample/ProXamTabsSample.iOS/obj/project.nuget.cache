@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8QBw9ZPDgl1kfzyHuSE+g7M4H0/9yVlr4YMg9vpdxsxqubHJxAMTzJV++y2FLU5fhdYExHrnYqyDCto8f8+Yw==",
+  "success": true,
+  "projectFilePath": "D:\\development\\Git\\public\\ProXamTabs\\ProXamTabsSample\\ProXamTabsSample.iOS\\ProXamTabsSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virk0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\virk0\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512"
+  ],
+  "logs": []
+}

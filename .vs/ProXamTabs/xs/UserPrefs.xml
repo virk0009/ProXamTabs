@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{BAFF7E18-C107-4450-9896-C4677924A24F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProXamTabsSample.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.ProXamTabsSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.210CB2DE-CDC9-4FA4-A2A2-7B6B9B727AF7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProXamTabsSample/ProXamTabsSample/TabsPage.xaml.cs">
+    <Files>
+      <File FileName="ProXamTabsSample/ProXamTabsSample/TabsPage.xaml.cs" Line="29" Column="1" />
+      <File FileName="ProXamTabsSample/ProXamTabsSample/MainPage.xaml" Line="9" Column="78" />
+      <File FileName="ProXamTabsSample/ProXamTabsSample/MainPage.xaml.cs" Line="28" Column="9" />
+      <File FileName="ProXamTabs/Shared/PXTab.xaml.cs" Line="23" Column="1" />
+      <File FileName="ProXamTabs/Shared/PXTabsLayout.xaml.cs" Line="1" Column="1" />
+      <File FileName="ProXamTabs/Shared/PXTabsView.xaml" Line="1" Column="1" />
+      <File FileName="ProXamTabs/Shared/PXTab.xaml" Line="1" Column="1" />
+      <File FileName="ProXamTabsSample/ProXamTabsSample/TabsPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProXamTabs" expanded="True">
+            <Node name="ProXamTabs" expanded="True">
+              <Node name="Shared" expanded="True">
+                <Node name="PXTab.xaml" expanded="True" />
+                <Node name="PXTabsLayout.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ProXamTabsSample" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="TabsPage.xaml" expanded="True">
+                <Node name="TabsPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ProXamTabsSample.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample/MainPage.xaml.cs" relfile="ProXamTabsSample/ProXamTabsSample/MainPage.xaml.cs" line="27" column="1" />
+      <Breakpoint file="/Volumes/backup/development/Git/virk0009/ProXamTabs/ProXamTabsSample/ProXamTabsSample/TabsPage.xaml.cs" relfile="ProXamTabsSample/ProXamTabsSample/TabsPage.xaml.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

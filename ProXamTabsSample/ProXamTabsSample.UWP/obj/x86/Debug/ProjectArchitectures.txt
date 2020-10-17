@@ -1,0 +1,1 @@
+D:\development\Git\public\ProXamTabs\ProXamTabsSample\ProXamTabsSample.UWP\ProXamTabsSample.UWP.csproj;x86
